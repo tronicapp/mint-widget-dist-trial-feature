@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/css/main.d63eab2a.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/main.59a49028.js",
+    "static/js/538.a4aa0d81.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/538.a4aa0d81.chunk.js",
+    "static/js/346.d116b9e3.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/346.d116b9e3.chunk.js",
+    "static/js/779.7865177d.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/779.7865177d.chunk.js",
+    "static/js/522.7f6d2e66.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/522.7f6d2e66.chunk.js",
+    "static/js/921.fbb3deb2.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/921.fbb3deb2.chunk.js",
+    "static/js/787.e29399b2.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/787.e29399b2.chunk.js",
+    "static/js/654.11ddb8a2.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/654.11ddb8a2.chunk.js",
+    "static/js/201.3cb052e1.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/201.3cb052e1.chunk.js",
+    "static/js/419.e559adea.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/419.e559adea.chunk.js",
+    "static/js/256.da61b67a.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/256.da61b67a.chunk.js",
+    "static/js/559.a0636bd7.chunk.js": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/559.a0636bd7.chunk.js",
+    "static/media/revicons.eot": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/index.html",
+    "main.d63eab2a.css.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/css/main.d63eab2a.css.map",
+    "main.59a49028.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/main.59a49028.js.map",
+    "538.a4aa0d81.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/538.a4aa0d81.chunk.js.map",
+    "346.d116b9e3.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/346.d116b9e3.chunk.js.map",
+    "921.fbb3deb2.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/921.fbb3deb2.chunk.js.map",
+    "787.e29399b2.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/787.e29399b2.chunk.js.map",
+    "201.3cb052e1.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/201.3cb052e1.chunk.js.map",
+    "419.e559adea.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/419.e559adea.chunk.js.map",
+    "256.da61b67a.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/256.da61b67a.chunk.js.map",
+    "559.a0636bd7.chunk.js.map": "https://cdn.jsdelivr.net/gh/tronicapp/mint-widget-dist-trial-feature@1.0.12/static/js/559.a0636bd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d63eab2a.css",
+    "static/js/main.59a49028.js"
+  ]
+}

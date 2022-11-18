@@ -1,0 +1,16 @@
+<svg viewBox="0 0 23 38">
+    <title>Group 2</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#FFFFFF">
+            <g>
+                <g fill-rule="nonzero">
+                    <polygon id="Path" opacity="0.600000024" points="11.4930765 14 0 19.2119816 11.4930765 26 23 19.2119816"/>
+                    <polygon id="Path" opacity="0.449999988" points="0 19.1696094 12 26 12 0"/>
+                    <polygon id="Path" opacity="0.800000012" points="11 0 11 26 23 19.1696094"/>
+                    <polygon id="Path" opacity="0.449999988" points="0 21 12 38 12 28.1196581"/>
+                    <polygon id="Path" opacity="0.800000012" points="11 28.1196581 11 38 23 21"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
